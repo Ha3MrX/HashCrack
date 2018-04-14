@@ -46,7 +46,7 @@ def beta():
     else:
         omega()
 print ((56 * '\033[1;31m-'))
-print "\t%s     Made with %s<3%s%s By HA-MRX" % (white, red, end, white)
+print "\t%s     create %s<3%s%s By HA-MRX" % (white, red, end, white)
 print """\033[1;97m
   _    _           _        _____                _    
  | |  | |         | |      / ____|              | |   
