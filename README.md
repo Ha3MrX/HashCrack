@@ -21,6 +21,6 @@
 
 ![capture](https://user-images.githubusercontent.com/33704360/38766570-837bc3d6-3f88-11e8-9747-e0e7d1a2c496.PNG)
 
-### YoiTube channel
+### YouTube channel
 
 https://www.youtube.com/c/HA-MRX
